@@ -1,0 +1,6 @@
+vendor/*/
+.vscode/
+bindata.go
+main
+swagger-runner
+spec.json
